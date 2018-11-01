@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MFNavigationBarAppearing"
-  s.version      = "1.1"
+  s.version      = "1.0.1"
   s.platform     = :ios, "9"
   s.summary      = "Navigation Bar appearing (by Molfar.io)"
   s.homepage     = "https://github.com/Molfar-io/MFNavigationBarAppearing"

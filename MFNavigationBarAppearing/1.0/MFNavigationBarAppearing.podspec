@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.authors      = { "Molfar.io" => "smoothie@molfar.io" }
   s.source       = { :git => "https://github.com/Molfar-io/MFNavigationBarAppearing.git", :tag => s.version.to_s }
 
-  s.source_files = 'MFNavigationBarAppearing/Code/**/*.swift'
+  s.source_files = 'MFNavigationBarAppearing/Code/**/*.{swift}'
   s.requires_arc = true
-
+  s.swift_version = "4.2"
 end
